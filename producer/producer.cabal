@@ -4,7 +4,7 @@ homepage:            https://github.com/filib/dropcure/producer
 license:             BSD3
 license-file:        LICENSE
 author:              Philip Cunningham
-maintainer:          example@example.com
+maintainer:          802389+philipcunningham@users.noreply.github.com
 copyright:           2017 Philip Cunningham
 category:            Web
 build-type:          Simple
